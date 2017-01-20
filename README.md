@@ -1,3 +1,6 @@
+
+[![Dependency Status](https://gemnasium.com/badges/github.com/stefanosx/money.svg)](https://gemnasium.com/github.com/stefanosx/money)
+
 # Money
 
 Money Converter
